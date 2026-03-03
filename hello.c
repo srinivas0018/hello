@@ -2,5 +2,5 @@
 int main()
 {
     printf("Hello from docker!");
-     println!("Welcome to Rust and Git!"); 
+     printf("Welcome to Rust and Git!"); 
 }
